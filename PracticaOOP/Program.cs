@@ -12,7 +12,7 @@ namespace PracticaOOP
     {
         static void Main(string[] args)
         {
-            // Crear objetos de Figura
+            
             Figura rectangulo = new Rectangulo(5, 10);
             Figura circulo = new Circulo(7);
             Figura triangulo = new Triangulo(4, 8);
@@ -23,7 +23,7 @@ namespace PracticaOOP
             
             Console.WriteLine($"Área del Triángulo: {triangulo.CalcularArea()}");
 
-            // Crear objetos de Persona y Estudiante
+            
             Console.WriteLine();
             Persona persona = new Persona("Juan", 30, "Santo Domingo");
             persona.MostrarInformacion();

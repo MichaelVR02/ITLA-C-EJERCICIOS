@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaOCP", "PracticaOCP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaISP", "PracticaISP\PracticaISP.csproj", "{71062C3F-C59E-41DB-9018-07347AC859D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaLSP", "PracticaLSP\PracticaLSP.csproj", "{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{71062C3F-C59E-41DB-9018-07347AC859D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71062C3F-C59E-41DB-9018-07347AC859D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71062C3F-C59E-41DB-9018-07347AC859D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

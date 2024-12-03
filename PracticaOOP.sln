@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaISP", "PracticaISP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaLSP", "PracticaLSP\PracticaLSP.csproj", "{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDI", "PracticaDI\PracticaDI.csproj", "{FA3ECD29-6BF3-4468-97B6-91049F7FF892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B20FDF80-EC5F-4D16-8E0F-9B800BAB9365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3ECD29-6BF3-4468-97B6-91049F7FF892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3ECD29-6BF3-4468-97B6-91049F7FF892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3ECD29-6BF3-4468-97B6-91049F7FF892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3ECD29-6BF3-4468-97B6-91049F7FF892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
